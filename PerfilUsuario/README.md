@@ -1,5 +1,9 @@
 # Perfil do Usuário — Login com FirebaseUI (Android / Kotlin)
 
+## Autores
+- Victor Hugo Soares Matos Brandão
+- Thales de Melo Fontes
+
 App com:
 - **Login** via FirebaseUI Auth (e-mail/senha), conforme a documentação oficial
 - **Cadastro** de usuários (tela própria com nome, e-mail e senha — a FirebaseUI também permite criar conta)
