@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Perfil do Usuário</string>
+
+    <!-- Login -->
+    <string name="login_titulo">Perfil do Usuário</string>
+    <string name="login_subtitulo">Entre com sua conta para continuar</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="msg_login_cancelado">Login cancelado.</string>
+    <string name="msg_sem_internet">Sem conexão com a internet.</string>
+    <string name="msg_erro_login">Não foi possível entrar. Tente novamente.</string>
+
+    <!-- Cadastro -->
+    <string name="cadastro_titulo">Criar conta</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha (mín. 6 caracteres)</string>
+    <string name="hint_confirmar_senha">Confirmar senha</string>
+    <string name="btn_criar_conta">Criar conta</string>
+    <string name="btn_ja_tenho_conta">Já tenho conta</string>
+    <string name="erro_nome">Informe seu nome</string>
+    <string name="erro_email">Informe um e-mail válido</string>
+    <string name="erro_senha">A senha deve ter pelo menos 6 caracteres</string>
+    <string name="erro_confirmar_senha">As senhas não coincidem</string>
+    <string name="erro_email_em_uso">Este e-mail já está cadastrado</string>
+    <string name="erro_senha_fraca">Senha muito fraca</string>
+    <string name="erro_cadastro">Não foi possível criar a conta. Tente novamente.</string>
+
+    <!-- Tela principal -->
+    <string name="main_titulo">Bem-vindo(a)!</string>
+    <string name="main_sem_nome">Usuário sem nome</string>
+    <string name="btn_sair">Sair</string>
+</resources>
